@@ -1,0 +1,31 @@
+{
+  "name": "web-os-cli",
+  "version": "1.0.0",
+  "description": "CLI for Web-OS",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Gum-Joe/Web-OS-console.git"
+  },
+  "keywords": [
+    "web",
+    "os",
+    "web-os",
+    "cli"
+  ],
+  "bin":{
+    "web": "bin/cli.js"
+  },
+  "author": "Gum-Joe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gum-Joe/Web-OS-console/issues"
+  },
+  "homepage": "https://github.com/Gum-Joe/Web-OS-console#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
