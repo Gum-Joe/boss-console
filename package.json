@@ -17,7 +17,7 @@
     "cli"
   ],
   "bin":{
-    "web": "bin/cli.js"
+    "webc": "bin/cli.js"
   },
   "author": "Gum-Joe",
   "license": "MIT",
