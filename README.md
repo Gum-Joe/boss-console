@@ -1,2 +1,2 @@
-# Web-OS-console
-Web-OS CLI
+# Boss-console
+Boss CLI
